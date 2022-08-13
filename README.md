@@ -22,3 +22,10 @@ Keeping a record of all the Questions I solve daily, so I don't slack off.
 
 ### My latest work :new:
 ## NFTMarketplace :art:
+
+A Marketplace for selling and buying NFTs
+
+[(https://github.com/zaCKoZAck0/)](https://github.com/zaCKoZAck0/)
+[https://nft-marketplace.byzackozack.in/](https://nft-marketplace.byzackozack.in/)
+![image](https://user-images.githubusercontent.com/69889382/184478197-11e9d07d-40b4-41e1-b2c7-b88c81e5d298.png)
+
