@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Here's a summary of my repos.
 
-### My favorite Repo.
+### My favorite Repo. :heart:
 ## Grind :zap:
 Keeping a record of all the Questions I solve daily, so I don't slack off.
 
