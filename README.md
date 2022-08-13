@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Ayush
+### I'm Ayush
 
-LinkedIn: [in/ayush-kumar-yadav/](https://www.linkedin.com/in/ayush-kumar-yadav/)
+#### LinkedIn: [in/ayush-kumar-yadav/](https://www.linkedin.com/in/ayush-kumar-yadav/)
 
-Portfolio: [byzackozack.in](https://www.byzackozack.in/)
+#### Portfolio: [byzackozack.in](https://www.byzackozack.in/)
 
 <!--
 **zaCKoZAck0/zaCKoZAck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
