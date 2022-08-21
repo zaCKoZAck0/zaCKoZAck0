@@ -9,8 +9,6 @@
 
 [![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=zackozack2&theme=Dark)](#)
 
-![](https://leetcode-badge.haozibi.dev/v1/chart/submission-calendar/zackozack2.svg?type=past-year&color=yellow)
-
 <!--
 **zaCKoZAck0/zaCKoZAck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
