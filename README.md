@@ -2,7 +2,6 @@
 ### I'm Ayush
 
 [![](https://komarev.com/ghpvc/?username=zaCKoZAck0&color=red)](https://github.com/zaCKoZAck0)
-[](https://custom-icon-badges.herokuapp.com/badge/?logo=madewithcoffee)
 
 #### LinkedIn: [in/ayush-kumar-yadav/](https://www.linkedin.com/in/ayush-kumar-yadav/)
 
