@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Ayush
 
-![](https://komarev.com/ghpvc/?username=zaCKoZAck0&color=red)
+[![](https://komarev.com/ghpvc/?username=zaCKoZAck0&color=red)](https://github.com/zaCKoZAck0)
 
 #### LinkedIn: [in/ayush-kumar-yadav/](https://www.linkedin.com/in/ayush-kumar-yadav/)
 
